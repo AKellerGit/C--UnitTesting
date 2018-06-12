@@ -1,0 +1,10 @@
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibraryTests\bin\Debug\ClassLibraryTests.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibraryTests\bin\Debug\ClassLibraryTests.pdb
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibraryTests\Debug\ClassLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibraryTests\Debug\ClassLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibraryTests\Debug\ClassLibraryTests.csproj.CopyComplete
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibraryTests\Debug\ClassLibraryTests.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibraryTests\Debug\ClassLibraryTests.pdb

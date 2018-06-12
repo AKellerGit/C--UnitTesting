@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormUI", "WinFormUI\WinF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "DemoLibrary\ClassLibrary.csproj", "{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryTests", "ClassLibraryTests\ClassLibraryTests.csproj", "{E27CB268-74BD-4595-8B25-370AE921B319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27CB268-74BD-4595-8B25-370AE921B319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27CB268-74BD-4595-8B25-370AE921B319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27CB268-74BD-4595-8B25-370AE921B319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27CB268-74BD-4595-8B25-370AE921B319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

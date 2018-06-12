@@ -1,6 +1,0 @@
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\obj\Debug\DemoLibrary.dll
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\obj\Debug\DemoLibrary.pdb
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\bin\Debug\DemoLibrary.dll
-C:\Users\ak\Desktop\all things\unit-testing\DemoLibrary\bin\Debug\DemoLibrary.pdb

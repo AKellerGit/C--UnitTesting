@@ -1,0 +1,11 @@
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\ClassLibrary.Tests.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\ClassLibrary.Tests\bin\Debug\ClassLibrary.Tests.pdb
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary.Tests\Debug\ClassLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary.Tests\Debug\ClassLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary.Tests\Debug\ClassLibrary.Tests.csproj.CopyComplete
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary.Tests\Debug\ClassLibrary.Tests.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary.Tests\Debug\ClassLibrary.Tests.pdb

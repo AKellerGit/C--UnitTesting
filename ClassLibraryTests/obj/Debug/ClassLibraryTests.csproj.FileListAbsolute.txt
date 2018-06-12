@@ -1,0 +1,17 @@
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\ClassLibraryTests.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\ClassLibraryTests.pdb
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\DemoLibrary.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\DemoLibrary.pdb
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\obj\Debug\ClassLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\obj\Debug\ClassLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\obj\Debug\ClassLibraryTests.csproj.CopyComplete
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\obj\Debug\ClassLibraryTests.dll
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\obj\Debug\ClassLibraryTests.pdb
+C:\Users\ak\Desktop\all things\unit-testing\ClassLibraryTests\bin\Debug\UnitTestName.json

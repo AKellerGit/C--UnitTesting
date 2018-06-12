@@ -23,17 +23,17 @@ C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
 C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
 C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.exe
 C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.pdb
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.exe
-C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.pdb
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\PersonText.txt
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\WinFormUI.exe.config
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\WinFormUI.exe
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\WinFormUI.pdb
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\DemoLibrary.dll
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
 C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\ak\Desktop\all things\unit-testing\WinFormUI\obj\Debug\WinFormUI.pdb

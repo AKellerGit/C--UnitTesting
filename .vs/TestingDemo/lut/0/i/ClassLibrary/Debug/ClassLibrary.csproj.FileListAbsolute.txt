@@ -1,0 +1,7 @@
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\b\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary\Debug\DemoLibrary.dll
+C:\Users\ak\Desktop\all things\unit-testing\.vs\TestingDemo\lut\0\i\ClassLibrary\Debug\DemoLibrary.pdb
