@@ -25,7 +25,7 @@ namespace ClassLibrary
 
             File.WriteAllLines(personTextFile, lines);
         }
-
+        
         public static void AddPersonToPeopleList(List<PersonModel> people, PersonModel person)
         {
             if (string.IsNullOrWhiteSpace(person.FirstName))
